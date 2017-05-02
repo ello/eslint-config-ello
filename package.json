@@ -4,6 +4,11 @@
   "description": "Ello's eslint configuration based off of Airbnb's config.",
   "main": "index.js",
   "license": "MIT",
+  "homepage": "https://github.com/ello/eslint-config-ello",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ello/eslint-config-ello"
+  },
   "dependencies": {
     "eslint-config-airbnb": "14.1.0",
     "eslint-plugin-import": "2.2.0",
