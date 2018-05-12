@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ello",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Ello's eslint configuration based off of Airbnb's config.",
   "main": "index.js",
   "license": "MIT",
